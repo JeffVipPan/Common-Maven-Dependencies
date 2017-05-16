@@ -1,0 +1,13 @@
+<!-- Redis -->
+<dependency>
+	<groupId>redis.clients</groupId>
+	<artifactId>jedis</artifactId>
+	<version>2.9.0</version>
+</dependency>
+
+<!-- Spring-Redis -->
+<dependency>
+	<groupId>org.springframework.data</groupId>
+	<artifactId>spring-data-redis</artifactId>
+	<version>1.8.3.RELEASE</version>
+</dependency>
