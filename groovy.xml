@@ -1,4 +1,4 @@
-<!-- Function or Description -->
+<!-- Groovy -->
 <dependency>
 	<groupId>org.codehaus.groovy</groupId>
 	<artifactId>groovy-all</artifactId>
