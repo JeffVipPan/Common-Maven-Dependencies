@@ -1,3 +1,7 @@
+<repository>
+	<id>psiegman-repo</id>
+	<url>https://github.com/psiegman/mvn-repo/raw/master/releases</url>
+</repository>
 <!-- EpubLib -->
 <dependency>
 	<groupId>nl.siegmann.epublib</groupId>
